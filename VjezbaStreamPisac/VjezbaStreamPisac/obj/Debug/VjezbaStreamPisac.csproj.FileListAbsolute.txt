@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\bin\Debug\VjezbaStreamPisac.exe.config
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\bin\Debug\VjezbaStreamPisac.exe
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\bin\Debug\VjezbaStreamPisac.pdb
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\obj\Debug\VjezbaStreamPisac.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\obj\Debug\VjezbaStreamPisac.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\obj\Debug\VjezbaStreamPisac.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\obj\Debug\VjezbaStreamPisac.exe
+C:\Users\ucenik\Desktop\p_ispit\VjezbaStreamPisac\VjezbaStreamPisac\obj\Debug\VjezbaStreamPisac.pdb
